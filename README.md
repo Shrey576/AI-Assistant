@@ -1,4 +1,4 @@
-# AI-Assitant
+# AI-Assistant
 
 
 # Personal Assistant Project
